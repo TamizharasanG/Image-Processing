@@ -20,17 +20,25 @@ Run the Streamlit app.
 ## Usage
 
 -->> Upload a picture of a business card.
+
 -->> Wait for the app to extract the information.
+
 -->> Verify and correct any incorrect or missing information.
+
 -->> Click "Upload to database" to add the extracted information to the database.
+
 -->> Click "View Records" to view all records in the database.
+
 -->> Click "Delete Record" to delete a specific record.
 
 ## Technologies Used
 
 -->> Python
+
 -->> Streamlit
+
 -->> OpenCV
+
 -->> EasyOCR
 
 ## Contributing
