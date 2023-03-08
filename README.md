@@ -44,21 +44,32 @@ Run the Streamlit app.
 ## Contributing
 Contributions are always welcome! If you would like to contribute to this project, please create a new branch and submit a pull request.
 
+
+
+## Work flow of the Project : 
+
+![image](https://user-images.githubusercontent.com/119114780/223653582-36f756f1-2c61-442f-aa89-af5758dc5c99.png)
+
+
 For your reference i have attached some photos of the web app
 
 -->> Upload a image and wait for few seconds. After the Fetch Text button appears click that
+
 ![image](https://user-images.githubusercontent.com/119114780/223506095-607a9858-4ba5-40a8-92c8-714e88f9768c.png)
 
 -->> The fetched informations will appear along with the uploaded image in the text editor. Edit the informations if any deviations
+
 ![image](https://user-images.githubusercontent.com/119114780/223506307-6200d28c-ae17-4083-8573-7f7d4b360183.png)
 ![image](https://user-images.githubusercontent.com/119114780/223506503-cad532e5-93b3-4062-b762-caca1a4d5882.png)
 
 -->> If you want to store the information click the upload button. The fetched informations will be uploaded in the SQL database (Used - SQLite3)
+
 ![image](https://user-images.githubusercontent.com/119114780/223506767-75bc64d3-84ad-40e1-afca-90a946cb8866.png)
 ![image](https://user-images.githubusercontent.com/119114780/223507865-7f4d7edb-effb-4043-8adf-c560ccea2f20.png)
 
 
 -->> If you want to see a particular record or delete a particular record click the respective buttons after entering their name.
+
 ![image](https://user-images.githubusercontent.com/119114780/223507852-4f5d9217-ae94-41ed-ae46-94f1f9f5a3df.png)
 
 
